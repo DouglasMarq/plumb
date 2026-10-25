@@ -1,3 +1,7 @@
+## 0. Scope
+
+These rules are language-neutral. Examples in specific languages illustrate the intent — apply the equivalent construct in the project's language (Rust, Python, etc.). When the language or its tooling requires something a rule forbids, the language wins.
+
 ## 1. Think Before Coding
 
 **Don't assume. Don't hide confusion. Surface tradeoffs.**
