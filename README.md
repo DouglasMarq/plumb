@@ -32,6 +32,7 @@ Then add a short `## Project` section to your project's `.claude/CLAUDE.md` with
 | `.claude/rules/api-errors.md`    | Error responses as [RFC 9457](https://www.rfc-editor.org/info/rfc9457) Problem Details              |
 | `.claude/rules/testing.md`       | Given/When/Then test names, coverage thresholds, integration and E2E tests first                    |
 | `.claude/rules/pull-requests.md` | Descriptions that list every behavior change with its location, before, after and reason           |
+| `.claude/rules/reporting.md`     | End-of-task summaries: one section per request, edge cases, before/after per case, evidence, gaps   |
 
 ## Existing codebases
 
